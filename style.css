@@ -1,0 +1,12 @@
+#funcionamento{
+    font-style: italic;
+
+}
+#criar-tarefa{
+  background-color:  rgb(46, 169, 240);
+}
+.completed {
+  text-decoration: line-through solid rgb(0,0,0);
+  
+
+}
